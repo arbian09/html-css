@@ -1,0 +1,117 @@
+.d1{
+   width: 400px;
+    height: 400px;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.d2{
+    width: 100px;
+    height:100px;
+    background-color: black;
+}
+.d11{
+    width: 300px;
+    height: 300px;
+    background-color: blue;
+    display: flex;
+    justify-content:center;
+    align-items: center
+}
+.d22{
+    width:100px;
+    height: 100px;
+    background-color:red;
+    margin: 5px;
+}
+.d33{
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    margin: 5px;
+}
+.main{
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.d0{
+    width: 100px;
+    height: 100px;
+    background-color: azure;
+    margin: 5px;
+    
+}
+.d09{
+    width: 100px;
+    height: 100px;
+    background-color: azure;
+    margin: 5px;
+
+}
+.d08{
+    width: 100px;
+    height: 100px;
+    background-color: azure;
+    margin: 5px;
+}
+.arbian1{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.arbiani2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.di{
+    width: 300px;
+    height: 300px;
+    background-color: aliceblue;
+   
+    
+}
+.dg{
+    width: 300px;
+    height: 100px;
+    background-color: black;
+    align-items: center;
+    justify-content: end;
+    display: flex;
+
+}
+.dd{
+    width: 300px;
+    height: 100px;
+    background-color: rgb(182, 21, 21);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+.df{
+    width: 300px;
+    height: 100px;
+    background-color: rgb(107, 182, 21);
+    align-items: center;
+    justify-content: start;
+    display: flex;
+
+}
+.arb{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}

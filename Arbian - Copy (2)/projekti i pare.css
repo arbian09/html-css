@@ -1,0 +1,56 @@
+body{
+    background-color: antiquewhite;
+
+}
+.div1{
+    width: 80%;
+    height: 800px;
+    margin: auto;
+}
+.h1{
+    text-align: center;
+}
+.video{
+    width: 100%;
+    padding-top: 20px;
+}
+.h2{
+    text-align: center;
+}
+.iframe{
+    display: block;
+    width: fit-content;
+    margin: auto;
+    border-radius: 20px;
+}
+.div3{
+    width: 100%;
+    padding: 20px 0px;
+}
+.p1{
+    padding: 10px 30px;
+
+}
+.loc{
+    width: 100%;
+    padding: 20px 0px;
+}
+.forma{
+    width: 100%;
+    padding: 20px 0px;
+}
+input{
+    display: block;
+    width: 70%;
+    height: 30px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin:10px auto;
+
+}
+.butoni{
+    display: block;
+    width: 40%;
+    background-color: rgb(167,20, 90);
+    color: wheat;
+}

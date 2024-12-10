@@ -1,0 +1,59 @@
+.div{
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+}
+@media screen and (max-width: 800px){
+    .div{
+        background-color: burlywood;
+    }
+}
+@media screen and (max-width: 700px){
+    .div{background-color: aqua;}
+}
+.d1{
+    width: 300px;
+    height: 150px;
+    background-color: blueviolet;
+    transition: 2s;
+}
+.d2{
+    width: 300px;
+    height: 150px;
+    background-color: red;
+    transition: 2s;
+}
+@media screen and (max-width: 600px){
+    .d1{
+        transform: rotate(360deg);
+        background-color: darkblue;
+    }
+    .d2{
+        transform: rotate(360deg);
+        background-color: chartreuse;
+    }
+}
+
+.main{
+    width: 600px;
+    height: 400px;
+    background-color: aqua;
+}
+.left{
+    width: 200px;
+    height: 400px;
+    background-color: rgb(231, 231, 19);
+    float: left;
+}
+.center{
+    width: 200px;
+    height: 400px;
+    background-color: rgb(19, 76, 231);
+    float: left;
+}
+.right{
+    width: 200px;
+    height: 400px;
+    background-color: rgb(231, 19, 213);
+    float: left;
+}

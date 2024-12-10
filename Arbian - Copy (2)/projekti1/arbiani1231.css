@@ -1,0 +1,77 @@
+.left{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    transition: 5s;
+}
+.right{
+    float: right;
+    width: 100px;
+    height: 100px;
+    background-color:red;
+    transition: 5s;
+}
+.left:hover{
+transform:translate(200px, 0px) ;
+background-color: blueviolet;
+}
+.right:hover{
+    transform:translate(-200px, 0px) ;
+    background-color: rgb(133, 6, 252);
+}
+
+
+
+
+
+
+
+.main{
+ width:700px ;
+ height: 600px;
+ background-color: aliceblue;   
+}
+.lart{
+    width: 700px;
+    height: 300px;
+    background-color: brown;
+}
+.poshte{
+    width: 700px;
+    height: 300px;
+    background-color: blue;
+}
+.foto{
+    width: 400px;
+    height: 300px;
+    background-color: aqua;
+    float: left;
+}
+.text{
+    width: 300px;
+    height: 300px;
+    background-color: chocolate;
+    float: left;
+}
+img{
+    width: 400px;
+    height: 300px;
+}
+p{
+    margin: 15px 25px;
+    font-size: 20px;
+    font-family: cursive;
+}
+.relative{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    position: relative;
+    left: 100px;
+    top: 100px;
+}
+.absolute{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}

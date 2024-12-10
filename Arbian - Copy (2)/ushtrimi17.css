@@ -1,0 +1,11 @@
+form{
+    background-color: aqua;
+    width: fit-content;
+    margin: auto;
+}
+label,input{
+    margin-left: 20px;
+}
+input{
+    border-radius: 5px;
+}

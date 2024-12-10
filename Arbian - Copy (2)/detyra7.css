@@ -1,0 +1,30 @@
+.main{
+    width: 400px;
+    height: 600px;
+    background-color: aqua;
+    transition: 5s ;
+}
+.img1{
+    width: 380px;
+    height: 280px;
+    display: block;
+    margin: 20px auto;
+}
+.h1{
+    text-align: center;
+    transition: 4s;
+}
+.h1:hover{
+    background-color:black;
+    color:wheat;
+}
+.p1{
+    text-align: center;
+    transition: 2s;
+}
+.p1:hover{
+    font-size: 20px;
+}
+.main:hover{
+    background-color: blue;
+}

@@ -1,0 +1,22 @@
+.main{
+    width: 400px;
+    height: 400px;
+}
+.d1{
+    width: 400px;
+    height: 75px;
+    background-color: blue;
+}
+.d2{
+    width: 400px;
+    height: 325px;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: end;
+}
+.d22{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+}

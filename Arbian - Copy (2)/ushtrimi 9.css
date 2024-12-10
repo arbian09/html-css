@@ -1,0 +1,51 @@
+.h1{ 
+    border: 3px solid black;
+    width: 200px;
+}
+.h2{
+    border: 2px solid black;
+    width: 20%;
+}
+.h12{
+    border: 3px solid black;
+    padding: 0px 50px;
+    width: 300px;
+}
+.h234{ 
+    border: 2px solid black;
+    width: 402px;
+
+}
+.h34{
+    border: 2px solid red;
+    width: fit-content;
+}
+.h09{
+    border: 2px solid aqua;
+    width: fit-content;
+    padding: 40px;
+    height: fit-content;
+}
+.p{
+    width: 150px;
+    height: 150px;
+    border: 2px solid aqua;
+    border-radius: 50%;
+    text-align: center;
+}
+.h09756{
+    border: 2px solid black;
+    border-radius: 50%;
+    padding: 105px 100px 100px 122px;
+    width: 50px;
+    height: 50px;
+}
+.bald{
+    text-transform: uppercase;
+}
+.italia{
+    text-transform: lowercase;
+}
+.klasa{ 
+    text-transform: capitalize;
+}

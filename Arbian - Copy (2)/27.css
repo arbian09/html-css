@@ -1,0 +1,14 @@
+.responsive{
+    width: 800px;
+    height: 100px;
+    background-color: blueviolet;
+}
+@media screen and (max-width:750px){
+
+    .responsive{
+        width: 400px;
+        height: 200px;
+        background-color: brown;
+    }
+} 
+    

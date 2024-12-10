@@ -1,0 +1,29 @@
+form{
+    width: 350px;
+    height: auto;
+    background-color: aqua;
+    border: 3px solid red;
+    border-radius: 30px;
+    display: block;
+    margin: auto;
+
+}
+label,input{
+    display: block;
+    margin-left: 50px;
+}
+input{
+    margin-bottom: 30px;
+    width: 250px;
+    height: 30px;
+}
+label{
+    font-size: 25px;
+}
+.buttonnnbi{
+    width: 100px;
+    height: 40px;
+    background-color: blue;
+    margin: auto;
+    border-radius: 15px;
+}
